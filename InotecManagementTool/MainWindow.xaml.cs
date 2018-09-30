@@ -23,6 +23,7 @@ namespace InotecManagementTool
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("Hello World!");
         }
     }
 }
